@@ -1,0 +1,23 @@
+{
+	"name": "Notify",
+	"short_name": "Notify",
+	"description": "Never miss any Coding contest",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#000000",
+	"theme_color": "#f5be23",
+    "icons": [
+		{
+			"src": "/logo_bg_192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/logo_bg_512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
+}
